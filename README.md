@@ -18,3 +18,4 @@ Fitur Bonus
 📱 PWA Ready → bisa offline.
 
 🤖 (Opsional) AI Insight untuk saran hemat.
+
