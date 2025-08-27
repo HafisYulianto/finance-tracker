@@ -1,0 +1,21 @@
+/* Dark mode root */
+.dark {
+  --tw-bg-opacity: 1;
+  background-color: rgb(17 24 39 / var(--tw-bg-opacity));
+  color: white;
+}
+
+/* Chart container responsive */
+.chart-container {
+  position: relative;
+  height: 300px;
+  width: 100%;
+}
+
+/* Income/Expense color helpers */
+.income { color: #10b981; }
+.expense { color: #ef4444; }
+
+.progress-bar {
+  transition: width 0.5s ease-in-out;
+}
